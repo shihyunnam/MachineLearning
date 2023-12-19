@@ -29,8 +29,6 @@ ydata = np.array(ydata, dtype=np.float32)
 # plt.show()
 
 
-
-
 #######DEFINING MODEL###########
 #Defining Hyper parameter 
 input_size = 1
